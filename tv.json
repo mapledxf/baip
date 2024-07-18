@@ -1,6 +1,6 @@
 
 {
-"spider":"https://codeberg.org/zqk219/baip/raw/branch/main/jar/y.jar;md5;3553BB971D264C30D42A04AD182EE0FA",
+"spider":"./jar/y.jar;md5;3553BB971D264C30D42A04AD182EE0FA",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlYmVyZy5vcmcvenFrMjE5L2JhaXAvcmF3L2JyYW5jaC9tYWluL2xpdmUudHh0"]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 
